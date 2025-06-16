@@ -1,0 +1,14 @@
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.AssemblyInfo.cs
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\ExerciciosComCsharp.exe
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\ExerciciosComCsharp.deps.json
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\ExerciciosComCsharp.runtimeconfig.json
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\ExerciciosComCsharp.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\ExerciciosComCsharp.pdb
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\refint\ExerciciosComCsharp.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.pdb
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.genruntimeconfig.cache
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ref\ExerciciosComCsharp.dll

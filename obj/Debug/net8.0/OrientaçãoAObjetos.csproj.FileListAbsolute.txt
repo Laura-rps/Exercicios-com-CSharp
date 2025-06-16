@@ -1,0 +1,14 @@
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\OrientaçãoAObjetos.exe
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\OrientaçãoAObjetos.deps.json
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\OrientaçãoAObjetos.runtimeconfig.json
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\OrientaçãoAObjetos.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\bin\Debug\net8.0\OrientaçãoAObjetos.pdb
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.AssemblyInfo.cs
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\refint\OrientaçãoAObjetos.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.pdb
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\OrientaçãoAObjetos.genruntimeconfig.cache
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ref\OrientaçãoAObjetos.dll
