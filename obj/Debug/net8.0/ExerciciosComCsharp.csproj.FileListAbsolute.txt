@@ -12,3 +12,4 @@ C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\refint\Exercic
 C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.pdb
 C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.genruntimeconfig.cache
 C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ref\ExerciciosComCsharp.dll
+C:\Users\Laura\source\repos\OrientaçãoAObjetos\obj\Debug\net8.0\ExerciciosComCsharp.sourcelink.json

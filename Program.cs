@@ -1,11 +1,16 @@
 ﻿using System;
-using ExerciciosComCsharp.OrientacaoAObjetos;
+using ExerciciosComCsharp;
 using ExerciciosComCsharp.DatasETempo;
 using ExerciciosComCsharp.EstruturasDeControle;
+using ExerciciosComCsharp.EstruturasDeControle.CondicionalIfElse;
 using ExerciciosComCsharp.ExerciciosComMetodos;
 using ExerciciosComCsharp.ManipulacaoDenNumeros;
-using ExerciciosComCsharp.OperacoesMatematicas;
+using ExerciciosComCsharp.OperacoesMatematicas.Conversoes;
+using ExerciciosComCsharp.OperacoesMatematicas.Geometria;
+using ExerciciosComCsharp.OperacoesMatematicas.NumerosEBasicos;
+using ExerciciosComCsharp.OrientacaoAObjetos;
+using ExerciciosComCsharp.ProgramacaoOrientadaAObjetos.Construtores;
+using ExerciciosComCsharp.ProgramacaoOrientadaAObjetos.Propriedades;
 using ExerciciosComCsharp.VetoresEArrays;
-using ExerciciosComCsharp;
 
-FahrenheitParaCelsius.Main(args);
+DivisiveisPor2e3.Main(args);
