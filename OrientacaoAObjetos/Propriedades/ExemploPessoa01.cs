@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosComCsharp.ProgramacaoOrientadaAObjetos.Propriedades
+namespace ExerciciosComCsharp.OrientacaoAObjetos.Propriedades
 {
     internal class ExemploPessoa01
     {

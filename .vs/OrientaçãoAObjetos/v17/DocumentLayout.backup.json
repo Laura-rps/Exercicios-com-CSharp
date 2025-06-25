@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\senha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\calculosalariocomcondicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\calculosalariocomcondicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\calculosalariocomcomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\calculosalariocomcomissao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\resultadojogotimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\resultadojogotimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\positivonegativoouzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\positivonegativoouzero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\orientacaoaobjetos\\propriedades\\exemplopessoa01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:orientacaoaobjetos\\propriedades\\exemplopessoa01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\maiorentre3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\maiorentre3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\verificaidadeparavotar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\verificaidadeparavotar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\desconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\desconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\calculotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\calculotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\calculodefrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\calculodefrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\calculodesaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\calculodesaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\mediaescolar3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\mediaescolar3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\mediaescolar2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\mediaescolar2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\mediaescolar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\mediaescolar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\calculoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\calculoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\conversoes\\calculogasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\conversoes\\calculogasolina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\calculos\\aposentadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\calculos\\aposentadoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\conversoes\\valorcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\conversoes\\valorcarro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\conversoes\\novosalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\conversoes\\novosalario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\conversoes\\prestacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\conversoes\\prestacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\porcentagens\\calculopercentualvotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\porcentagens\\calculopercentualvotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\conversoes\\converteridadeemdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\conversoes\\converteridadeemdias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\divisibilidadeeparimpar\\imparesde0a20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\divisibilidadeeparimpar\\imparesde0a20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\sequenciaserepeticoes\\tabuadado1ateo10deumnumero .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\sequenciaserepeticoes\\tabuadado1ateo10deumnumero .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\sequenciaserepeticoes\\tabuadadeumnumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\sequenciaserepeticoes\\tabuadadeumnumero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\operacoesmatematicas\\sequenciaserepeticoes\\somados100primeirosnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:operacoesmatematicas\\sequenciaserepeticoes\\somados100primeirosnumeros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\while\\tabuadado1ao10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\while\\tabuadado1ao10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\while\\dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\while\\dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\matematicabasica\\multiplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:matematicabasica\\multiplicacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\tratamentoformalporgenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\tratamentoformalporgenero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\exibirsemenorouigualatres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\exibirsemenorouigualatres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|c:\\users\\laura\\source\\repos\\orienta\u00E7\u00E3oaobjetos\\estruturasdecontrole\\condicionalifelse\\validafaixade1a9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D2F9284-C84A-4749-A892-44E96409A03B}|ExerciciosComCsharp.csproj|solutionrelative:estruturasdecontrole\\condicionalifelse\\validafaixade1a9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T13:54:30.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Senha.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\Senha.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\Senha.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\Senha.cs*",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\Senha.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA0wCAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:39:59.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculoSalarioComCondicao.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\CalculoSalarioComCondicao.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\CalculoSalarioComCondicao.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\CalculoSalarioComCondicao.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\CalculoSalarioComCondicao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:32:49.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculoSalarioComComissao.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoSalarioComComissao.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\CalculoSalarioComComissao.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoSalarioComComissao.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\CalculoSalarioComComissao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:22:56.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultadoJogoTimes.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\ResultadoJogoTimes.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\ResultadoJogoTimes.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\ResultadoJogoTimes.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\ResultadoJogoTimes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:25:00.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PositivoNegativoOuZero.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\PositivoNegativoOuZero.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\PositivoNegativoOuZero.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\PositivoNegativoOuZero.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\PositivoNegativoOuZero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:19:36.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExemploPessoa01.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OrientacaoAObjetos\\Propriedades\\ExemploPessoa01.cs",
+              "RelativeDocumentMoniker": "OrientacaoAObjetos\\Propriedades\\ExemploPessoa01.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OrientacaoAObjetos\\Propriedades\\ExemploPessoa01.cs",
+              "RelativeToolTip": "OrientacaoAObjetos\\Propriedades\\ExemploPessoa01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:18:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaiorEntre3.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\MaiorEntre3.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\MaiorEntre3.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\MaiorEntre3.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\MaiorEntre3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T22:05:30.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VerificaIdadeParaVotar.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\VerificaIdadeParaVotar.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\VerificaIdadeParaVotar.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\VerificaIdadeParaVotar.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\VerificaIdadeParaVotar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:54:26.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Desconto.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\Desconto.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\Desconto.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\Desconto.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\Desconto.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:42:03.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculoTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoTriangulo.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\CalculoTriangulo.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoTriangulo.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\CalculoTriangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:28:04.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CalculoDeFrutas.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoDeFrutas.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\CalculoDeFrutas.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoDeFrutas.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\CalculoDeFrutas.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T17:17:41.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculoDeSaldo.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoDeSaldo.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\CalculoDeSaldo.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoDeSaldo.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\CalculoDeSaldo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:48:56.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MediaEscolar3.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\MediaEscolar3.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\MediaEscolar3.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\MediaEscolar3.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\MediaEscolar3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:36:26.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MediaEscolar2.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\MediaEscolar2.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\MediaEscolar2.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\MediaEscolar2.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\MediaEscolar2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:54:54.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MediaEscolar1.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\MediaEscolar1.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\MediaEscolar1.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\MediaEscolar1.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\MediaEscolar1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:44:37.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoItem.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\CalculoItem.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\CalculoItem.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\CalculoItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:35:40.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Aposentadoria.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\Aposentadoria.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Calculos\\Aposentadoria.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Calculos\\Aposentadoria.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Calculos\\Aposentadoria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:51:54.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalculoGasolina.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\CalculoGasolina.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Conversoes\\CalculoGasolina.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\CalculoGasolina.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Conversoes\\CalculoGasolina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:41:30.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ValorCarro.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\ValorCarro.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Conversoes\\ValorCarro.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\ValorCarro.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Conversoes\\ValorCarro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:25:26.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NovoSalario.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\NovoSalario.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Conversoes\\NovoSalario.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\NovoSalario.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Conversoes\\NovoSalario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:18:34.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Prestacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\Prestacoes.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Conversoes\\Prestacoes.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\Prestacoes.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Conversoes\\Prestacoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:18:22.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CalculoPercentualVotos.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Porcentagens\\CalculoPercentualVotos.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Porcentagens\\CalculoPercentualVotos.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Porcentagens\\CalculoPercentualVotos.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Porcentagens\\CalculoPercentualVotos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:03:49.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConverterIdadeEmDias.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\ConverterIdadeEmDias.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\Conversoes\\ConverterIdadeEmDias.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\Conversoes\\ConverterIdadeEmDias.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\Conversoes\\ConverterIdadeEmDias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:48:03.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Imparesde0a20.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\DivisibilidadeEParImpar\\Imparesde0a20.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\DivisibilidadeEParImpar\\Imparesde0a20.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\DivisibilidadeEParImpar\\Imparesde0a20.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\DivisibilidadeEParImpar\\Imparesde0a20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:33:04.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TabuadaDo1ateo10deumnumero .cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDo1ateo10deumnumero .cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDo1ateo10deumnumero .cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDo1ateo10deumnumero .cs",
+              "RelativeToolTip": "OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDo1ateo10deumnumero .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:31:33.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TabuadaDeUmNumero.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDeUmNumero.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDeUmNumero.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDeUmNumero.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\SequenciasERepeticoes\\TabuadaDeUmNumero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:31:29.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SomaDos100PrimeirosNumeros.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\SequenciasERepeticoes\\SomaDos100PrimeirosNumeros.cs",
+              "RelativeDocumentMoniker": "OperacoesMatematicas\\SequenciasERepeticoes\\SomaDos100PrimeirosNumeros.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\OperacoesMatematicas\\SequenciasERepeticoes\\SomaDos100PrimeirosNumeros.cs",
+              "RelativeToolTip": "OperacoesMatematicas\\SequenciasERepeticoes\\SomaDos100PrimeirosNumeros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:31:16.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TabuadaDo1ao10.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\While\\TabuadaDo1ao10.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\While\\TabuadaDo1ao10.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\While\\TabuadaDo1ao10.cs",
+              "RelativeToolTip": "EstruturasDeControle\\While\\TabuadaDo1ao10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:23:27.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DoWhile.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\While\\DoWhile.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\While\\DoWhile.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\While\\DoWhile.cs",
+              "RelativeToolTip": "EstruturasDeControle\\While\\DoWhile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:22:46.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Multiplicacao.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\MatematicaBasica\\Multiplicacao.cs",
+              "RelativeDocumentMoniker": "MatematicaBasica\\Multiplicacao.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\MatematicaBasica\\Multiplicacao.cs",
+              "RelativeToolTip": "MatematicaBasica\\Multiplicacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:15:08.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TratamentoFormalPorGenero.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\TratamentoFormalPorGenero.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\TratamentoFormalPorGenero.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\TratamentoFormalPorGenero.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\TratamentoFormalPorGenero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T13:05:22.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ExibirSeMenorOuIgualATres.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\ExibirSeMenorOuIgualATres.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\ExibirSeMenorOuIgualATres.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\ExibirSeMenorOuIgualATres.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\ExibirSeMenorOuIgualATres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:54:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ValidaFaixaDe1a9.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\ValidaFaixaDe1a9.cs",
+              "RelativeDocumentMoniker": "EstruturasDeControle\\CondicionalIfElse\\ValidaFaixaDe1a9.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\Orienta\u00E7\u00E3oAObjetos\\EstruturasDeControle\\CondicionalIfElse\\ValidaFaixaDe1a9.cs",
+              "RelativeToolTip": "EstruturasDeControle\\CondicionalIfElse\\ValidaFaixaDe1a9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T12:47:36.847Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExerciciosComCsharp.EstruturasDeControle.CondicionalIfElse
+namespace ExerciciosComCsharp.EstruturasDeControle.CondicionalIfElse.CondicionalIfElseAninhado
 {
     internal class VerificaAprovacaoComExame
     {
